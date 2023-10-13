@@ -1,5 +1,16 @@
-### Hi there 👋
+## Heya! I'm Chance Edrea 👋
 
+I'm an Undergraduate Cyber Security Student @ Binus University, currently in my third year. Fairly passionate about Systems and Computers from the security perspective. 
+Primarily, I'm interested in topics that require analytical process such as:
+- Reverse Engineering
+- Binary Exploitation
+- Digital Forensics (File, Network)
+- Network Security
+
+## Projects:
+* Currently Working on:
+  - OSU! Storyboarding using [Storybrew](https://github.com/Damnae/storybrew)
+  - Linux From Scratch (for Learning Purposes)
 <!--
 **Xovert/xovert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
